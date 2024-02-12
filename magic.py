@@ -2,7 +2,7 @@ import random
 from enum import Enum
 random.seed(2024)
 
-TRUMP = "A123456789TJQK"
+TRUMP = "A23456789TJQK"
 
 class YouFrom(Enum):
     NORTH = "北方人"
